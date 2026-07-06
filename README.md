@@ -18,8 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/P-gifavan/DSA---Learning/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/P-gifavan/DSA---Learning/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/P-gifavan/DSA---Learning/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/P-gifavan/DSA---Learning/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/P-gifavan/DSA---Learning/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
