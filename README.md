@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/P-gifavan/DSA---Learning/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/P-gifavan/DSA---Learning/tree/master/0242-valid-anagram) |
+| [3945-digit-frequency-score](https://github.com/P-gifavan/DSA---Learning/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/P-gifavan/DSA---Learning/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0202-happy-number) |
+| [3945-digit-frequency-score](https://github.com/P-gifavan/DSA---Learning/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
