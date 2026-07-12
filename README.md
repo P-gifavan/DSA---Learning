@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/P-gifavan/DSA---Learning/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/P-gifavan/DSA---Learning/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/P-gifavan/DSA---Learning/tree/master/0344-reverse-string) |
+| [1108-defanging-an-ip-address](https://github.com/P-gifavan/DSA---Learning/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/P-gifavan/DSA---Learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
