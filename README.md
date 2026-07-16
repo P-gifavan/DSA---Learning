@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/P-gifavan/DSA---Learning/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/P-gifavan/DSA---Learning/tree/master/0620-not-boring-movies) |
 | [1729-find-followers-count](https://github.com/P-gifavan/DSA---Learning/tree/master/1729-find-followers-count) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/P-gifavan/DSA---Learning/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
 |  |
 | ------- |
