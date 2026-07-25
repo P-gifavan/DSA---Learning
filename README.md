@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/P-gifavan/DSA---Learning/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0202-happy-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/P-gifavan/DSA---Learning/tree/master/3536-maximum-product-of-two-digits) |
 | [3945-digit-frequency-score](https://github.com/P-gifavan/DSA---Learning/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/P-gifavan/DSA---Learning/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
 | [1200-minimum-absolute-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/1200-minimum-absolute-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/P-gifavan/DSA---Learning/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
