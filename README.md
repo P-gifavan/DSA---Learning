@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/P-gifavan/DSA---Learning/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/P-gifavan/DSA---Learning/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/P-gifavan/DSA---Learning/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
 | [1108-defanging-an-ip-address](https://github.com/P-gifavan/DSA---Learning/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/P-gifavan/DSA---Learning/tree/master/1528-shuffle-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/P-gifavan/DSA---Learning/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/P-gifavan/DSA---Learning/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
 | [3146-permutation-difference-between-two-strings](https://github.com/P-gifavan/DSA---Learning/tree/master/3146-permutation-difference-between-two-strings) |
 | [3945-digit-frequency-score](https://github.com/P-gifavan/DSA---Learning/tree/master/3945-digit-frequency-score) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/P-gifavan/DSA---Learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/P-gifavan/DSA---Learning/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/P-gifavan/DSA---Learning/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
 | [1200-minimum-absolute-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/1200-minimum-absolute-difference) |
 ## Counting
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
 | [2595-number-of-even-and-odd-bits](https://github.com/P-gifavan/DSA---Learning/tree/master/2595-number-of-even-and-odd-bits) |
 ## Simulation
 |  |
