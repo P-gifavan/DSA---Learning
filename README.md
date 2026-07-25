@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/P-gifavan/DSA---Learning/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/P-gifavan/DSA---Learning/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/P-gifavan/DSA---Learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3146-permutation-difference-between-two-strings](https://github.com/P-gifavan/DSA---Learning/tree/master/3146-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/P-gifavan/DSA---Learning/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/P-gifavan/DSA---Learning/tree/master/0242-valid-anagram) |
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
+| [3146-permutation-difference-between-two-strings](https://github.com/P-gifavan/DSA---Learning/tree/master/3146-permutation-difference-between-two-strings) |
 | [3945-digit-frequency-score](https://github.com/P-gifavan/DSA---Learning/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
