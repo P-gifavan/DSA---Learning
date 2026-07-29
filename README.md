@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/P-gifavan/DSA---Learning/tree/master/1773-count-items-matching-a-rule) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/P-gifavan/DSA---Learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2490-circular-sentence](https://github.com/P-gifavan/DSA---Learning/tree/master/2490-circular-sentence) |
 | [3146-permutation-difference-between-two-strings](https://github.com/P-gifavan/DSA---Learning/tree/master/3146-permutation-difference-between-two-strings) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Hash Table
