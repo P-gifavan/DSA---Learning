@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/P-gifavan/DSA---Learning/tree/master/3146-permutation-difference-between-two-strings) |
 | [3945-digit-frequency-score](https://github.com/P-gifavan/DSA---Learning/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/P-gifavan/DSA---Learning/tree/master/1652-defuse-the-bomb) |
 | [1773-count-items-matching-a-rule](https://github.com/P-gifavan/DSA---Learning/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/P-gifavan/DSA---Learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
 | [2595-number-of-even-and-odd-bits](https://github.com/P-gifavan/DSA---Learning/tree/master/2595-number-of-even-and-odd-bits) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
 | ------- |
@@ -105,5 +108,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/P-gifavan/DSA---Learning/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
