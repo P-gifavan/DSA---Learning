@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/P-gifavan/DSA---Learning/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/P-gifavan/DSA---Learning/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/P-gifavan/DSA---Learning/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0202-happy-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/P-gifavan/DSA---Learning/tree/master/3536-maximum-product-of-two-digits) |
 | [3945-digit-frequency-score](https://github.com/P-gifavan/DSA---Learning/tree/master/3945-digit-frequency-score) |
 ## Linked List
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/P-gifavan/DSA---Learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/P-gifavan/DSA---Learning/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/P-gifavan/DSA---Learning/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/P-gifavan/DSA---Learning/tree/master/1652-defuse-the-bomb) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/P-gifavan/DSA---Learning/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
