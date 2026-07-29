@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/P-gifavan/DSA---Learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/P-gifavan/DSA---Learning/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/P-gifavan/DSA---Learning/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/P-gifavan/DSA---Learning/tree/master/0643-maximum-average-subarray-i) |
 | [1200-minimum-absolute-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/P-gifavan/DSA---Learning/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/P-gifavan/DSA---Learning/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/P-gifavan/DSA---Learning/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
