@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/P-gifavan/DSA---Learning/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/P-gifavan/DSA---Learning/tree/master/1773-count-items-matching-a-rule) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/P-gifavan/DSA---Learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3146-permutation-difference-between-two-strings](https://github.com/P-gifavan/DSA---Learning/tree/master/3146-permutation-difference-between-two-strings) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/P-gifavan/DSA---Learning/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3146-permutation-difference-between-two-strings](https://github.com/P-gifavan/DSA---Learning/tree/master/3146-permutation-difference-between-two-strings) |
 | [3945-digit-frequency-score](https://github.com/P-gifavan/DSA---Learning/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/P-gifavan/DSA---Learning/tree/master/0169-majority-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/P-gifavan/DSA---Learning/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
