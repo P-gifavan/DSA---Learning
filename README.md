@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/P-gifavan/DSA---Learning/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/P-gifavan/DSA---Learning/tree/master/3146-permutation-difference-between-two-strings) |
 | [3945-digit-frequency-score](https://github.com/P-gifavan/DSA---Learning/tree/master/3945-digit-frequency-score) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/P-gifavan/DSA---Learning/tree/master/1773-count-items-matching-a-rule) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/P-gifavan/DSA---Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/P-gifavan/DSA---Learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/P-gifavan/DSA---Learning/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Divide and Conquer
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/P-gifavan/DSA---Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/P-gifavan/DSA---Learning/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/P-gifavan/DSA---Learning/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Trie
