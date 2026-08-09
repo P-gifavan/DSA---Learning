@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/P-gifavan/DSA---Learning/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/P-gifavan/DSA---Learning/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/P-gifavan/DSA---Learning/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -165,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/P-gifavan/DSA---Learning/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
