@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/P-gifavan/DSA---Learning/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/P-gifavan/DSA---Learning/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/P-gifavan/DSA---Learning/tree/master/1528-shuffle-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/P-gifavan/DSA---Learning/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1773-count-items-matching-a-rule](https://github.com/P-gifavan/DSA---Learning/tree/master/1773-count-items-matching-a-rule) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/P-gifavan/DSA---Learning/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/P-gifavan/DSA---Learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/P-gifavan/DSA---Learning/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/P-gifavan/DSA---Learning/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
