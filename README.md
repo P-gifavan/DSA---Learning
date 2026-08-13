@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/P-gifavan/DSA---Learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/P-gifavan/DSA---Learning/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/P-gifavan/DSA---Learning/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -186,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/P-gifavan/DSA---Learning/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/P-gifavan/DSA---Learning/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/P-gifavan/DSA---Learning/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
