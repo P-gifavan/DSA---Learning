@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/P-gifavan/DSA---Learning/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/P-gifavan/DSA---Learning/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/P-gifavan/DSA---Learning/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/P-gifavan/DSA---Learning/tree/master/3536-maximum-product-of-two-digits) |
 | [3945-digit-frequency-score](https://github.com/P-gifavan/DSA---Learning/tree/master/3945-digit-frequency-score) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/P-gifavan/DSA---Learning/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/P-gifavan/DSA---Learning/tree/master/1652-defuse-the-bomb) |
 | [1773-count-items-matching-a-rule](https://github.com/P-gifavan/DSA---Learning/tree/master/1773-count-items-matching-a-rule) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/P-gifavan/DSA---Learning/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/P-gifavan/DSA---Learning/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/P-gifavan/DSA---Learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/P-gifavan/DSA---Learning/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/P-gifavan/DSA---Learning/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2595-number-of-even-and-odd-bits](https://github.com/P-gifavan/DSA---Learning/tree/master/2595-number-of-even-and-odd-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Simulation
@@ -197,4 +200,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/P-gifavan/DSA---Learning/tree/master/3898-find-the-degree-of-each-vertex) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/P-gifavan/DSA---Learning/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/P-gifavan/DSA---Learning/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/P-gifavan/DSA---Learning/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
