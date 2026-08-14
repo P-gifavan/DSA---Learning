@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/P-gifavan/DSA---Learning/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/P-gifavan/DSA---Learning/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/P-gifavan/DSA---Learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/P-gifavan/DSA---Learning/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/P-gifavan/DSA---Learning/tree/master/0594-longest-harmonious-subsequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/P-gifavan/DSA---Learning/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/P-gifavan/DSA---Learning/tree/master/0389-find-the-difference) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/P-gifavan/DSA---Learning/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2595-number-of-even-and-odd-bits](https://github.com/P-gifavan/DSA---Learning/tree/master/2595-number-of-even-and-odd-bits) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/P-gifavan/DSA---Learning/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/P-gifavan/DSA---Learning/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
