@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/P-gifavan/DSA---Learning/tree/master/2490-circular-sentence) |
 | [3146-permutation-difference-between-two-strings](https://github.com/P-gifavan/DSA---Learning/tree/master/3146-permutation-difference-between-two-strings) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3340-check-balanced-string](https://github.com/P-gifavan/DSA---Learning/tree/master/3340-check-balanced-string) |
 ## Hash Table
 |  |
 | ------- |
