@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/P-gifavan/DSA---Learning/tree/master/3146-permutation-difference-between-two-strings) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3340-check-balanced-string](https://github.com/P-gifavan/DSA---Learning/tree/master/3340-check-balanced-string) |
+| [3407-substring-matching-pattern](https://github.com/P-gifavan/DSA---Learning/tree/master/3407-substring-matching-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/P-gifavan/DSA---Learning/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/P-gifavan/DSA---Learning/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/P-gifavan/DSA---Learning/tree/master/0637-average-of-levels-in-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/P-gifavan/DSA---Learning/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
