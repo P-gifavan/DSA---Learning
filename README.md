@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/P-gifavan/DSA---Learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/P-gifavan/DSA---Learning/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/P-gifavan/DSA---Learning/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/P-gifavan/DSA---Learning/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/P-gifavan/DSA---Learning/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2595-number-of-even-and-odd-bits](https://github.com/P-gifavan/DSA---Learning/tree/master/2595-number-of-even-and-odd-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Simulation
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/P-gifavan/DSA---Learning/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/P-gifavan/DSA---Learning/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/P-gifavan/DSA---Learning/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/P-gifavan/DSA---Learning/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Trie
 |  |
